@@ -1,6 +1,6 @@
 import { THEME_COLOR } from "./config.js";
 
-function getHeroTitle() {
+function getHeroTitle(){
   return "Welcome";
 }
 
